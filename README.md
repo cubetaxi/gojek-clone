@@ -18,7 +18,7 @@ With Super Gojek Clone App, you can expand your business and generate revenue. N
 2. Driver/Service Provider App
 3. Store App
 
-If you have a plan to start a online business using gojek clone app is important that you connect with company. gojek clone app user-friendly, reliable and budget-friendly app that suits your business needs. **For More Information Visit Website: https://www.cubetaxi.com/gojek-clone**
+If you have a plan to start a online business using gojek clone app is important that you connect with company. gojek clone app user-friendly, reliable and budget-friendly app that suits your business needs. **For More Information Visit Website: https://bit.ly/3AswUiC**
 
 ![Gojek Clone](https://user-images.githubusercontent.com/51792955/128695749-422211ea-839a-4a6f-8e1c-789f1c09ce18.jpg)
 
