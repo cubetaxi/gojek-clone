@@ -12,7 +12,7 @@ Gojek Clone is a Multi Service Super app solution that integrates taxi booking, 
 
 With Super Gojek Clone App, you can expand your business and generate revenue. Now a days many businesses have face losses due to Covid-19 Pandemic so gojek clone is the best solution for you and your business.
 
-**There are three types of gojek clone app **
+**There are three types of gojek clone app**
 
 1. User App
 2. Driver/Service Provider App
